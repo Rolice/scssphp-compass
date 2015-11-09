@@ -1,4 +1,5 @@
 <?php
+use Leafo\ScssPhp\Compiler as scssc;
 
 require "vendor/autoload.php";
 require "compass.inc.php";
